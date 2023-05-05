@@ -1,6 +1,6 @@
 # Gsap
 
-I was experimenting with Gsap ScrollTrigger plugin and came out with this after few hours.
+I was experimenting with Gsap ScrollTrigger plugin and came up with this after few hours.
 
 Probably not optimal and site isnt even responsive yet, i made this just to learn more about scrolling animations.
 
